@@ -120,7 +120,7 @@ h3{
 }
 .container_slide{
     position: relative;
-
+    display: none;
 }
 .slide_content .slide_box{
     min-height: 100vh;

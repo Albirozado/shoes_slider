@@ -19,3 +19,8 @@ onscroll = () =>{
     menu.classList.remove("menuabri")
 
 }
+function processou(){
+    let processa = document.querySelector(".container_slide")
+    processa.style.display = "block"
+}
+processou()
