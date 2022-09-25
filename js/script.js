@@ -21,6 +21,6 @@ onscroll = () =>{
 }
 function processou(){
     let processa = document.querySelector(".container_slide")
-    processa.style.display = "block"
+    processa.style.visibility = "visible"
 }
-processou()
+
